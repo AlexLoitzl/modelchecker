@@ -1,0 +1,238 @@
+Timeout: 300s, Maximum resident set: 20000M
+BMC: k = [5] | IMC: inner bound = [-1]
+cmu.dme1.B.aig.aag
+OK (5) | OUT OF MEMORY
+cmu.dme2.B.aig.aag
+OK (5) | OUT OF MEMORY
+cmu.gigamax.B.aig.aag
+OK (5) | OK
+cmu.periodic.N.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.bs1512.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.bs3271.S.aig.aag
+OK (5) | OUT OF TIME
+eijk.bs3330.S.aig.aag
+OK (5) | OUT OF TIME
+eijk.bs3384.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.bs4863.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.bs6669.S.aig.aag
+OUT OF TIME | OUT OF TIME
+eijk.S1196.S.aig.aag
+OK (5) | OUT OF TIME
+eijk.S1238.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S1423.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S208.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S208c.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S208o.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S344.S.aig.aag
+OK (5) | OUT OF TIME
+eijk.S349.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S382.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S386.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S420.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S444.S.aig.aag
+OK (5) | OUT OF TIME
+eijk.S510.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S526.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S5378.S.aig.aag
+OK (5) | OUT OF TIME
+eijk.S641.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S713.S.aig.aag
+OK (5) | OUT OF TIME
+eijk.S820.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S832.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S838.S.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S953.S.aig.aag
+OK (5) | OUT OF MEMORY
+irst.dme4.B.aig.aag
+OK (5) | OUT OF MEMORY
+irst.dme6.B.aig.aag
+OK (5) | OUT OF MEMORY
+ken.flash^01.C.aig.aag
+OK (5) | OK
+ken.flash^02.C.aig.aag
+FAIL (5) | FAIL
+ken.flash^03.C.aig.aag
+OK (5) | OK
+ken.flash^04.C.aig.aag
+OK (5) | OK
+ken.flash^05.C.aig.aag
+OK (5) | OK
+ken.flash^06.C.aig.aag
+OK (5) | OK
+ken.flash^07.C.aig.aag
+OK (5) | OK
+ken.flash^08.C.aig.aag
+OK (5) | OK
+ken.flash^09.C.aig.aag
+OK (5) | OK
+ken.flash^10.C.aig.aag
+OK (5) | OK
+ken.flash^11.C.aig.aag
+OK (5) | OK
+ken.flash^12.C.aig.aag
+FAIL (5) | FAIL
+ken.flash^13.C.aig.aag
+OK (5) | OK
+ken.flash^14.C.aig.aag
+OK (5) | OK
+ken.oop^2.C.aig.aag
+OK (5) | OK
+nusmv.brp.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.dme1-16.B.aig.aag
+OK (5) | OUT OF TIME
+nusmv.dme2-16.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.guidance^1.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.guidance^2.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.guidance^4.C.aig.aag
+OK (5) | OK
+nusmv.guidance^5.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.guidance^6.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.guidance^7.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.guidance^8.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.guidance^9.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.queue.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.reactor^1.C.aig.aag
+OK (5) | OK
+nusmv.reactor^2.C.aig.aag
+OK (5) | OUT OF MEMORY
+eijk.S298.S.aig.aag
+OK (5) | OUT OF MEMORY
+irst.dme5.B.aig.aag
+OK (5) | OUT OF MEMORY
+ken.oop^1.C.aig.aag
+OK (5) | OK
+nusmv.reactor^3.C.aig.aag
+OK (5) | OK
+nusmv.tcas^4.B.aig.aag
+OK (5) | FAIL
+texas.PI_main^05.E.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.reactor^4.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.reactor^5.C.aig.aag
+OK (5) | OK
+nusmv.reactor^6.C.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.syncarb10^2.B.aig.aag
+OK (5) | OK
+nusmv.syncarb5^2.B.aig.aag
+OK (5) | OK
+nusmv.tcas-t^1.B.aig.aag
+OK (5) | FAIL
+nusmv.tcas-t^2.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.tcas-t^3.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.tcas-t^4.B.aig.aag
+OK (5) | FAIL
+nusmv.tcas-t^5.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.tcas-t^6.B.aig.aag
+OK (5) | FAIL
+nusmv.tcas^1.B.aig.aag
+OK (5) | FAIL
+nusmv.tcas^2.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.tcas^3.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.tcas^5.B.aig.aag
+OK (5) | OUT OF MEMORY
+nusmv.tcas^6.B.aig.aag
+OK (5) | FAIL
+texas.ifetch1^1.E.aig.aag
+OK (5) | OK
+texas.ifetch1^2.E.aig.aag
+OK (5) | OK
+texas.ifetch1^3.E.aig.aag
+OK (5) | OK
+texas.ifetch1^4.E.aig.aag
+OK (5) | OK
+texas.ifetch1^5.E.aig.aag
+OK (5) | FAIL
+texas.ifetch1^8.E.aig.aag
+FAIL (5) | FAIL
+texas.parsesys^1.E.aig.aag
+OK (5) | FAIL
+texas.parsesys^2.E.aig.aag
+OK (5) | OK
+texas.parsesys^3.E.aig.aag
+OK (5) | FAIL
+texas.parsesys^4.E.aig.aag
+OK (5) | OK
+texas.PI_main^01.E.aig.aag
+OK (5) | OUT OF MEMORY
+texas.PI_main^02.E.aig.aag
+FAIL (5) | FAIL
+texas.PI_main^08.E.aig.aag
+OK (5) | FAIL
+texas.PI_main^12.E.aig.aag
+OK (5) | OK
+texas.PI_main^15.E.aig.aag
+OK (5) | OK
+texas.two_proc^1.E.aig.aag
+OK (5) | FAIL
+texas.two_proc^2.E.aig.aag
+OK (5) | FAIL
+texas.two_proc^5.E.aig.aag
+OK (5) | FAIL
+vis.4-arbit^1.E.aig.aag
+OK (5) | OUT OF MEMORY
+vis.arbiter.E.aig.aag
+OK (5) | OUT OF MEMORY
+vis.bakery.E.aig.aag
+OK (5) | OUT OF MEMORY
+vis.coherence^1.E.aig.aag
+FAIL (5) | FAIL
+vis.coherence^2.E.aig.aag
+OK (5) | OUT OF MEMORY
+vis.coherence^3.E.aig.aag
+OK (5) | OUT OF TIME
+vis.coherence^5.E.aig.aag
+FAIL (5) | FAIL
+vis.eisenberg.E.aig.aag
+OK (5) | FAIL
+vis.elevator^1.E.aig.aag
+OK (5) | OK
+vis.elevator^2.E.aig.aag
+FAIL (5) | FAIL
+vis.elevator^3.E.aig.aag
+OK (5) | OK
+vis.emodel.E.aig.aag
+OK (5) | OK
+vis.prodcell^01.E.aig.aag
+OK (5) | OK
+vis.prodcell^03.E.aig.aag
+OK (5) | OUT OF MEMORY
+vis.prodcell^07.E.aig.aag
+FAIL (5) | FAIL
+vis.prodcell^22.E.aig.aag
+OK (5) | OUT OF TIME

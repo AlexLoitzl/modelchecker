@@ -1,0 +1,3 @@
+[submodule "aigertests"]
+	path = aigertests
+	url = git@github.com:dfapel/aigertests.git

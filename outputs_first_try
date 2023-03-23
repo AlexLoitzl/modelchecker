@@ -1,0 +1,238 @@
+Timeout: 300s, Maximum resident set: 20000M
+BMC: k = [10, 50, 100] | IMC: inner bound = [-1, 10, 5, 3]
+cmu.dme1.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+cmu.dme2.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+cmu.gigamax.B.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+cmu.periodic.N.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.bs1512.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.bs3271.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.bs3330.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.bs3384.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.bs4863.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.bs6669.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S1196.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S1238.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S1423.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S208.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S208c.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S208o.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S344.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S349.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S382.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S386.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S420.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S444.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S510.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S526.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S5378.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S641.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S713.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S820.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S832.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S838.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+eijk.S953.S.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+irst.dme4.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+irst.dme6.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+ken.flash^01.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^02.C.aig.aag
+FAIL (10) | FAIL (-1)
+ken.flash^03.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^04.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^05.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^06.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^07.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^08.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^09.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^10.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^11.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^12.C.aig.aag
+FAIL (10) | FAIL (-1)
+ken.flash^13.C.aig.aag
+OK (100) | OK (-1)
+ken.flash^14.C.aig.aag
+OK (100) | OK (-1)
+ken.oop^2.C.aig.aag
+OK (100) | OK (-1)
+nusmv.brp.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+nusmv.dme1-16.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+nusmv.dme2-16.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+nusmv.guidance^1.C.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.guidance^2.C.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+nusmv.guidance^4.C.aig.aag
+OK (100) | OK (-1)
+nusmv.guidance^5.C.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+nusmv.guidance^6.C.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.guidance^7.C.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+nusmv.guidance^8.C.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.guidance^9.C.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.queue.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+nusmv.reactor^1.C.aig.aag
+OK (100) | OK (-1)
+nusmv.reactor^2.C.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+eijk.S298.S.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+irst.dme5.B.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+ken.oop^1.C.aig.aag
+OK (100) | OK (-1)
+nusmv.reactor^3.C.aig.aag
+OK (100) | OK (-1)
+nusmv.tcas^4.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+texas.PI_main^05.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.reactor^4.C.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.reactor^5.C.aig.aag
+OK (100) | OK (-1)
+nusmv.reactor^6.C.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.syncarb10^2.B.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.syncarb5^2.B.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.tcas-t^1.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+nusmv.tcas-t^2.B.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.tcas-t^3.B.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.tcas-t^4.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+nusmv.tcas-t^5.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+nusmv.tcas-t^6.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+nusmv.tcas^1.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+nusmv.tcas^2.B.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.tcas^3.B.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+nusmv.tcas^5.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+nusmv.tcas^6.B.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+texas.ifetch1^1.E.aig.aag
+OK (100) | OK (-1)
+texas.ifetch1^2.E.aig.aag
+OK (100) | OK (-1)
+texas.ifetch1^3.E.aig.aag
+OK (100) | OK (-1)
+texas.ifetch1^4.E.aig.aag
+OK (100) | OK (-1)
+texas.ifetch1^5.E.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+texas.ifetch1^8.E.aig.aag
+FAIL (10) | FAIL (-1)
+texas.parsesys^1.E.aig.aag
+FAIL (10) | OUT OF RESOURCES/TIME
+texas.parsesys^2.E.aig.aag
+OK (100) | OK (-1)
+texas.parsesys^3.E.aig.aag
+FAIL (10) | OUT OF RESOURCES/TIME
+texas.parsesys^4.E.aig.aag
+OK (100) | OK (-1)
+texas.PI_main^01.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+texas.PI_main^02.E.aig.aag
+FAIL (10) | FAIL (-1)
+texas.PI_main^08.E.aig.aag
+FAIL (10) | FAIL (-1)
+texas.PI_main^12.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+texas.PI_main^15.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+texas.two_proc^1.E.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+texas.two_proc^2.E.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+texas.two_proc^5.E.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+vis.4-arbit^1.E.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+vis.arbiter.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+vis.bakery.E.aig.aag
+FAIL (100) | OUT OF RESOURCES/TIME
+vis.coherence^1.E.aig.aag
+FAIL (10) | FAIL (-1)
+vis.coherence^2.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+vis.coherence^3.E.aig.aag
+OUT OF RESOURCES/TIME | OUT OF RESOURCES/TIME
+vis.coherence^5.E.aig.aag
+FAIL (10) | OUT OF RESOURCES/TIME
+vis.eisenberg.E.aig.aag
+FAIL (50) | OUT OF RESOURCES/TIME
+vis.elevator^1.E.aig.aag
+OK (100) | OK (-1)
+vis.elevator^2.E.aig.aag
+FAIL (10) | FAIL (-1)
+vis.elevator^3.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+vis.emodel.E.aig.aag
+OK (100) | OK (-1)
+vis.prodcell^01.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+vis.prodcell^03.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
+vis.prodcell^07.E.aig.aag
+FAIL (10) | FAIL (-1)
+vis.prodcell^22.E.aig.aag
+OK (100) | OUT OF RESOURCES/TIME
