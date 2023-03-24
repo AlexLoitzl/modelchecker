@@ -21,3 +21,8 @@ To run the interpolation-based checker simply specify an input file along with s
 ```
 ## Build
 There is a Makefile attached. Adapt accordingly
+
+## Notes
+For large instances one might run into a stack overflow, just increase the stack size if that is the case. At that point the solver is usually already struggling to come up with an answer.
+
+On the [sequential modelchecking benchmarks](http://fmv.jku.at/aiger/tip-aig-20061215.zip) from 2006 provided on the [AIGER FORMAT](http://fmv.jku.at/aiger) website, my tool performs comparable to [nuXmv](https://nuxmv.fbk.eu).
