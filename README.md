@@ -1,8 +1,8 @@
 # modelchecker
-This tool includes both a Bounded Model Checker as well as an Interpolation-based Model Checker. 
+This tool includes both a Bounded Model Checker as well as an Interpolation-based Model Checker based on the material presented in class in the course [Computer Aided Verification](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=181145) by Georg Weissenbacher at TU Wien and the description in [[VWM2015]](http://dx.doi.org/10.1109/JPROC.2015.2455034).
+
 It expects a transition system specified as an And-inverter graph in [AIGER ASCII format](http://fmv.jku.at/aiger) with a single output interpreted as the bad property.
 
-esigned to find , based on thematerial presented in class in the course [Computer Aided Verification](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=181145) by Georg Weissenbacher at TU Wien and the description in [[VWM2015]](http://dx.doi.org/10.1109/JPROC.2015.2455034).
 ## Usage
 ### Optional Parameters
  - -v &ensp;&ensp; Prints some interesting info while running the interpolation-based checker
